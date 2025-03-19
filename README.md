@@ -11,10 +11,10 @@ pip install git+https://github.com/harry-s-grewal/mls-real-estate-scraper-for-re
 ## Local Development
 
 ```bash
-git clone https://github.com/harry-s-grewal/mls-real-estate-scraper-for-realtor.ca.git
+git clone https://github.com/S-Dornan/mls-real-estate-scraper-for-realtor_ca.git
 python -m venv venv
 . venv/bin/activate
-pip install -r ./mls-real-estate-scraper-for-realtor.ca/requirements.txt
+pip install -r ./mls-real-estate-scraper-for-realtor_ca/requirements.txt
 ```
 
 ## Context
